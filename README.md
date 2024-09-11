@@ -2,7 +2,7 @@
 # Solana Raydium sniper
 
 This is the first screen of the my Sniper.
-![video](./image/raydium-sniper.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Takhi77/repository/master/thumbnail.png)](https://raw.githubusercontent.com/Takhi77/repository/master/video.mp4)
 
 This is the demo video of the process of my raydium sniper.
 
