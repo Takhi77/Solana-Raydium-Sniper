@@ -1,8 +1,6 @@
 # How Can I snipe spl token in Raydium?
 # Solana Raydium sniper
 
-This is the first screen of the my Sniper.
-
 
 https://github.com/user-attachments/assets/0ec9eaa0-5b83-45c3-bd1b-515e74cb2c81
 
